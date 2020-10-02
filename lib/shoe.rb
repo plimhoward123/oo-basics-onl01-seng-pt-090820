@@ -25,6 +25,6 @@ class Shoe
     @material = mat
   end
   def material
-    @matertial
+    @material
   end
 end
