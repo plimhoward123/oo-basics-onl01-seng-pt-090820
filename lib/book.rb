@@ -15,5 +15,11 @@ class Book
     @author
   end
 
+  def page=(num)
+    @page = num
+  end
+  def page
+    @page
+  end
 
 end
