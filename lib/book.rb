@@ -8,5 +8,12 @@ class Book
     @title
   end
 
+  def author_name(name)
+    @author_name = name
+  end
+  def author_name
+    @author_name
+  end
+
 
 end
